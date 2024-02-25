@@ -1,5 +1,3 @@
-# hotel_management_System
-
 # Hotel Management System
 
 Hotel Management System is a software solution designed to streamline hotel operations, including reservation management, guest check-in/check-out, room assignment, billing, and more.
